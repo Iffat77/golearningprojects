@@ -17,3 +17,4 @@ func BenchmarkReapeat(b *testing.B){
 		Repeat("a")
 	}	
 }
+
